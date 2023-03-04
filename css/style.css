@@ -48,6 +48,13 @@ Table of Content:
   list-style: none;
   margin: 0px;
   padding: 0px; }
+.lebarcard{
+  height: 200px;
+  overflow-y: scroll;
+}
+.lebarcard::-webkit-scrollbar {
+  display: none;
+}
 
 a {
   text-decoration: none;
